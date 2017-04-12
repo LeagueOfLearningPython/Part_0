@@ -58,7 +58,8 @@ https://www.python.org/
 ## 查看帮助
 1. help()
 
-```>>> help(input) 
+```Python
+>>> help(input) 
 Help on built-in function input in module builtins: 
 #描述,在内建模块
 
