@@ -76,4 +76,4 @@ input(prompt=None, /)
     
     On *nix systems, readline is used if available.
 ```
-<span style="float:right">[点我返回首页](https://leagueoflearningpython.github.io/Part_0/)</span>
+[点我返回首页](https://leagueoflearningpython.github.io/Part_0/)
