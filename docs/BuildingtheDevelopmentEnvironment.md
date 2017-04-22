@@ -2,15 +2,16 @@
 
 ## Python简介
 1. Python的优点
-   简单、优雅、使用缩进而不是花括号
-   在国外Python都是作为初学者的入门语言
-2. Python官网 
+   
+   简单、优雅、使用缩进而不是花括号，并且在国外Python作为高校初学者的入门语言
+
+2. Python的应用领域
+
+  机器学习、深度学习、模式识别、web开发、自动化运维开发等
+
+3. Python官网 
 
 https://www.python.org/
-
-3. Python的应用领域
-   机器学习、深度学习、模式识别、web开发、自动化运维开发等
-
 
 ## Windows下开发环境的搭建（具体搭建过程可以参考 [小青春博客](http://blog.csdn.net/fj_author)）
 ### Python2.7的安装
