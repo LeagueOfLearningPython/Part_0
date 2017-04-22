@@ -1,24 +1,28 @@
 # 开发环境的搭建
 
 ## Python简介
-1. Python的发展历史
-2. Python的优点
-
-3. Python官网 
+1. Python的优点
+   简单、优雅、使用缩进而不是花括号
+   在国外Python都是作为初学者的入门语言
+2. Python官网 
 
 https://www.python.org/
 
-## Windows下开发环境的搭建
+3. Python的应用领域
+   机器学习、深度学习、模式识别、web开发、自动化运维开发等
+
+
+## Windows下开发环境的搭建（具体搭建过程可以参考 [小青春博客](http://blog.csdn.net/fj_author)）
 ### Python2.7的安装
 ### Python3.5的安装
-### anaconda的安装(kk推荐)
+### Python2.7与Python3.5的解决方案
+### anaconda的安装(略，kk推荐)
 
-## Ubuntu Linux下开发环境的搭建
+## Ubuntu Linux下使用技巧
 
 ## 第一个程序Hello,World!
 1. 命令提示符
 2. 脚本文件
-
 3. 单行注释
 
 `#`开头的为注释
@@ -38,7 +42,7 @@ https://www.python.org/
 
 第二行则会去环境设置寻找python目录,推荐这种写法
 
-后面两行是字符编码
+后面两行是Python脚本的字符编码
 
 这两个实际上是没有什么区别的,但是第二种看上去比较好看
 
@@ -76,4 +80,7 @@ input(prompt=None, /)
     
     On *nix systems, readline is used if available.
 ```
+2. 使用IDLE自带的手册
+3. python官网的documentation
+
 [点我返回首页](https://leagueoflearningpython.github.io/Part_0/)
