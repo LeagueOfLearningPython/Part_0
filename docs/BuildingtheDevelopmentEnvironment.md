@@ -1,6 +1,7 @@
 # 开发环境的搭建
 
 ## Python简介
+
 1. Python的优点
    
    简单、优雅、使用缩进而不是花括号，并且在国外Python作为高校初学者的入门语言
@@ -17,7 +18,7 @@ https://www.python.org/
 ### Python2.7的安装
 ### Python3.5的安装
 ### Python2.7与Python3.5的解决方案
-### anaconda的安装(略，kk推荐)
+### anaconda的安装(略，kk和小青春强烈推荐)
 
 ## Ubuntu Linux下使用技巧
 
@@ -54,7 +55,49 @@ https://www.python.org/
 
 ## 标识符、关键字(保留字)
 1. 标识符
+
 2. 关键字（保留字）
+
+```
+python2
+>>> import keyword
+>>> keyword.kwlist
+['and', 'as', 'assert', 'break', 'class', 'continue', 'def', 'del', 'elif', 'els
+e', 'except', 'exec', 'finally', 'for', 'from', 'global', 'if', 'import', 'in',
+'is', 'lambda', 'not', 'or', 'pass', 'print', 'raise', 'return', 'try', 'while',
+ 'with', 'yield']
+```
+
+31个
+
+```
+python3
+>>> import keyword
+>>> keyword.kwlist
+['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class', 'continue', '
+def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if',
+ 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'retu
+rn', 'try', 'while', 'with', 'yield']
+>>>
+```
+
+33个
+
+Python3中有，但python2中没有的关键字
+```
+False
+None
+True
+nonlocal
+```
+
+Python2中有python3中没有的关键字
+```
+exec   Python2中是语句，而Python3中是函数 
+print  Python2中是语句，而Python3中是函数
+```
+
+我建议这些都不要当作变量标识符，因为这不是一个好行为
 
 ## 物理行与逻辑行
 1. 物理行
@@ -82,6 +125,7 @@ input(prompt=None, /)
     On *nix systems, readline is used if available.
 ```
 2. 使用IDLE自带的手册
+
 3. python官网的documentation
 
 [点我返回首页](https://leagueoflearningpython.github.io/Part_0/)
