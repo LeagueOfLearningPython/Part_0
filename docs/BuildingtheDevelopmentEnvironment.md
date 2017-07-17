@@ -20,7 +20,7 @@ https://www.python.org/
 ### Python2.7与Python3.5的解决方案
 ### anaconda的安装(略，kk和小青春强烈推荐)
 
-## 视频教程 [小嘉丶学长]（http://www.bilibili.com/video/av12232633/）
+## 视频教程 [小嘉丶学长的视频](http://www.bilibili.com/video/av12232633/)
 
 ## Ubuntu Linux下使用技巧
 
