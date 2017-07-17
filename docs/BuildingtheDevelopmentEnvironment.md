@@ -14,11 +14,13 @@
 
 https://www.python.org/
 
-## Windows下开发环境的搭建（具体搭建过程可以参考 [小青春博客](http://blog.csdn.net/fj_author)）
+## Windows下开发环境的搭建（具体搭建过程可以参考 [小嘉丶学长博客](http://blog.csdn.net/fj_author)）
 ### Python2.7的安装
 ### Python3.5的安装
 ### Python2.7与Python3.5的解决方案
 ### anaconda的安装(略，kk和小青春强烈推荐)
+
+## 视频教程 [小嘉丶学长]（http://www.bilibili.com/video/av12232633/）
 
 ## Ubuntu Linux下使用技巧
 
