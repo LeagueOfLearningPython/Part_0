@@ -20,6 +20,32 @@ https://www.python.org/
 ### Python2.7与Python3.5的解决方案
 ### anaconda的安装(略，kk和小青春强烈推荐)
 
+### Sublime Text 3安装package control
+### Sublime Text 3安装emmet
+### Sublime Text 3安装SublimeREPL
+### sublime Text 3为SublimeREPL配置快捷键
+
+上面一个json配置的是打开浏览器的快捷键。前端开发使用
+下面一个就是为SublimeREPL配置快捷键
+
+[
+	{
+	 	"keys": ["ctrl+shift+enter"], 
+		"command": "open_in_browser" 
+	},
+	
+	{
+		"keys":["f1"],
+		"caption": "SublimeREPL: Python - RUN current file",
+		"command": "run_existing_window_command", "args":
+		{
+			"id": "repl_python_run",
+			"file": "config/Python/Main.sublime-menu"
+		}
+	}
+]
+
+
 ## 视频教程 [小嘉丶学长的视频](http://www.bilibili.com/video/av12232633/)
 
 ## Ubuntu Linux下使用技巧
